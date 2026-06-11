@@ -1,2 +1,2 @@
 
-this folder containt Stata do.file for descriptive statistical analysis and moderatos.
+this folder containt Stata do.file for descriptive statistical analysis and moderators.
