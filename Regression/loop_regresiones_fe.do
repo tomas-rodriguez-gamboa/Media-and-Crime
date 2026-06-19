@@ -1,5 +1,5 @@
 /*******************************************************************************
-   loop_regresiones_fe_CD.do
+   loop_regresiones_fe.do
    Drop-in replacement for loop_regresiones_fe.do.
 
    Author: Tomas Rodriguez Gamboa
